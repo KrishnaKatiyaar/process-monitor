@@ -1,8 +1,8 @@
-# Advanced Process Monitor 🔍
+# Advanced Process Monitor 
 
 Real-time system monitoring tool with process management capabilities.
 
-## Features ✨
+## Features 
 - Live process monitoring
 - System resource tracking (CPU/Memory/Disk)
 - Process termination
@@ -10,7 +10,7 @@ Real-time system monitoring tool with process management capabilities.
 - Sorting columns
 - Auto-refresh
 
-## Installation ⚙️
+## Installation 
 ```bash
 git clone https://github.com/KrishnaKatiyaar/process-monitor.git
 cd process-monitor
